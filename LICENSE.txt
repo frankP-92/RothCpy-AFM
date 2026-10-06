@@ -1,0 +1,8 @@
+This platform is designed for field-level applications and is intended primarily for academic and educational use. 
+The original contents and components developed specifically for this platform, excluding third-party software, 
+are made available for non-commercial use under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International licence (CC BY-NC-ND 4.0).
+Modified versions of these components may not be distributed without the prior written permission of the respective copyright holders.
+
+The platform incorporates the Rothamsted Carbon Model (RothC), developed by Rothamsted Research and distributed under the Apache License 2.0. 
+RothC remains subject exclusively to the terms of the Apache License 2.0, which permits its use, modification and redistribution, including for commercial purposes, subject to the conditions of that licence. 
+Any modifications made to the original RothC code are identified as such and do not imply endorsement by Rothamsted Research.
